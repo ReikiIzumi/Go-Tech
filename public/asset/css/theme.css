@@ -1433,6 +1433,17 @@ a.text-dark:hover, a.text-dark:focus {
   background-color: #6C55F9;
 }
 
+.divider2 {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 32px;
+    width: 32px;
+    height: 3px;
+    border-radius: 40px;
+    background-color: #ffffff;
+  }
+
+
 
 
 .btn-split {
@@ -1517,7 +1528,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 
 .banner-seo-check {
-  padding: 0;
+  padding: auto;
   background-image: radial-gradient(circle, #B262F8 15%, #5439F8);
   color: #fff;
 }
@@ -1541,7 +1552,7 @@ a.text-dark:hover, a.text-dark:focus {
   position: absolute;
   top: 6px;
   right: 6px;
-} 
+}
 
 
 .card-pricing {

@@ -34,9 +34,9 @@
 
             </div>
             <div class="body">
-              <h5 class="text-secondary">SEO Consultancy</h5>
-              <p>We help you define your SEO objective & develop a realistic strategy with you</p>
-              <a href="service.html" class="btn btn-primary">Read More</a>
+              <h5 class="text-secondary">RestFull API</h5>
+              <p>We help you making api with standart undustry and easy to use</p>
+              <a href="service" class="btn btn-primary">Read More</a>
             </div>
           </div>
         </div>
@@ -47,9 +47,9 @@
               {{-- <img src="../assets/img/services/service-2.svg" alt=""> --}}
             </div>
             <div class="body">
-              <h5 class="text-secondary">Content Marketing</h5>
-              <p>We help you define your SEO objective & develop a realistic strategy with you</p>
-              <a href="service.html" class="btn btn-primary">Read More</a>
+              <h5 class="text-secondary">Web Development</h5>
+              <p>We create professional website for your company</p>
+              <a href="service" class="btn btn-primary">Read More</a>
             </div>
           </div>
         </div>
@@ -60,9 +60,9 @@
               {{-- <img src="../assets (img/services/service-3.svg" alt=""> --}}
             </div>
             <div class="body">
-              <h5 class="text-secondary">Keyword Research</h5>
-              <p>We help you define your SEO objective & develop a realistic strategy with you</p>
-              <a href="service.html" class="btn btn-primary">Read More</a>
+              <h5 class="text-secondary">Mobile Development</h5>
+              <p>We build mobile app with great design and fast as possible</p>
+              <a href="service" class="btn btn-primary">Read More</a>
             </div>
           </div>
         </div>
@@ -75,12 +75,12 @@
       <div class="row align-items-center">
         <div class="col-lg-6 py-3 wow fadeInUp">
           <span class="subhead">About us</span>
-          <h2 class="title-section">The number #1 SEO Service Company</h2>
+          <h2 class="title-section">The number #1 Development Service Company</h2>
           <div class="divider"></div>
 
-          <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-          <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.</p>
-          <a href="about.html" class="btn btn-primary mt-3">Read More</a>
+          <p>We've done a lot of work with companies, we do what they want so that they are happy with what we do.</p>
+          <p>We are happy with the achievements we have achieved so far, but we will continue to improve your product to make it even better.</p>
+          <a href="about" class="btn btn-primary mt-3">Read More</a>
         </div>
         <div class="col-lg-6 py-3 wow fadeInRight">
           <div class="img-fluid py-3 text-center">
@@ -92,125 +92,72 @@
     </div> <!-- .container -->
   </div> <!-- .page-section -->
 
-  <div class="page-section bg-light">
+  <div class="page-section banner-seo-check">
     <div class="container">
       <div class="text-center wow fadeInUp">
-        <div class="subhead">Our services</div>
-        <h2 class="title-section">How SEO Team Can Help</h2>
-        <div class="divider mx-auto"></div>
+        <h2 class="mb-4">Happy Client</h2>
+        <div class="divider2 mx-auto"></div>
       </div>
-
-        <div class="row">
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4 col-xl-3 py-3 wow zoomIn">
-            <div class="features">
-              <div class="header mb-3">
-                <span class="mai-business"></span>
-              </div>
-              <h5>OnSite SEO</h5>
-              <p>We analyse your website's structure, internal architecture & other key</p>
-            </div>
+      <div class="row mt-5">
+        <div class="col-lg-4 py-3 wow zoomIn">
+          <div class="card-pricing">
+            <img src="asset/img/client/1.svg"  alt="" style="height:50px;">
           </div>
         </div>
 
+        <div class="col-lg-4 py-3 wow zoomIn">
+          <div class="card-pricing">
+            <img src="asset/img/client/2.svg"  alt="" style="height:50px;">
+          </div>
+        </div>
+
+        <div class="col-lg-4 py-3 wow zoomIn">
+          <div class="card-pricing">
+            <img src="asset/img/client/3.svg"  alt="" style="height:50px;">
+          </div>
+        </div>
+
+        <div class="col-lg-4 py-3 wow zoomIn">
+            <div class="card-pricing">
+              <img src="asset/img/client/4.svg"  alt="" style="height:50px;">
+            </div>
+          </div>
+
+          <div class="col-lg-4 py-3 wow zoomIn">
+            <div class="card-pricing">
+              <img src="asset/img/client/5.svg"  alt="" style="height:50px;">
+            </div>
+          </div>
+
+          <div class="col-lg-4 py-3 wow zoomIn">
+            <div class="card-pricing">
+              <img src="asset/img/client/6.svg"  alt="" style="height:50px;">
+            </div>
+          </div>
+
+      </div>
     </div> <!-- .container -->
   </div> <!-- .page-section -->
 
-  <div class="page-section banner-seo-check">
-    <div class="wrap bg-image" style="background-image: url(../asset/img/bg_pattern.svg);">
-      <div class="container text-center">
-        <div class="row justify-content-center wow fadeInUp">
-          <div class="col-lg-8">
-            <h2 class="mb-4">Check your Website SEO</h2>
-            <form action="#">
-              <input type="text" class="form-control" placeholder="E.g google.com">
-              <button type="submit" class="btn btn-success">Check Now</button>
-            </form>
-          </div>
-        </div>
-      </div> <!-- .container -->
-    </div> <!-- .wrap -->
-  </div> <!-- .page-section -->
+
 
   <div class="page-section">
     <div class="container">
       <div class="text-center wow fadeInUp">
-        <div class="subhead">Pricing Plan</div>
-        <h2 class="title-section">Choose plan the right for you</h2>
+        <div class="subhead">Pricing</div>
+        <h2 class="title-section">Choose service for you need</h2>
         <div class="divider mx-auto"></div>
       </div>
       <div class="row mt-5">
         <div class="col-lg-4 py-3 wow zoomIn">
           <div class="card-pricing">
             <div class="header">
-              <div class="pricing-type">Basic</div>
+              <div class="pricing-type">API</div>
               <div class="price">
-                <span class="dollar">$</span>
-                <h1>39<span class="suffix">.99</span></h1>
+                <span class="dollar">Rp</span>
+                <h1>99<span class="suffix">.000</span></h1>
               </div>
-              <h5>Per Month</h5>
+              <h5>Per API</h5>
             </div>
             <div class="body">
               <p>25 Analytics <span class="suffix">Campaign</span></p>
@@ -220,7 +167,7 @@
               <p>24/7 <span class="suffix">Support</span></p>
             </div>
             <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
+              <a href="#" class="btn btn-pricing btn-block">Order Now</a>
             </div>
           </div>
         </div>
@@ -228,12 +175,12 @@
         <div class="col-lg-4 py-3 wow zoomIn">
           <div class="card-pricing marked">
             <div class="header">
-              <div class="pricing-type">Standar</div>
+              <div class="pricing-type">WEBSITE</div>
               <div class="price">
-                <span class="dollar">$</span>
-                <h1>59<span class="suffix">.99</span></h1>
+                <span class="dollar">Rp</span>
+                <h1>199<span class="suffix">.000</span></h1>
               </div>
-              <h5>Per Month</h5>
+              <h5>Per WEB</h5>
             </div>
             <div class="body">
               <p>25 Analytics <span class="suffix">Campaign</span></p>
@@ -243,7 +190,7 @@
               <p>24/7 <span class="suffix">Support</span></p>
             </div>
             <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
+              <a href="#" class="btn btn-pricing btn-block">Order Now</a>
             </div>
           </div>
         </div>
@@ -251,12 +198,12 @@
         <div class="col-lg-4 py-3 wow zoomIn">
           <div class="card-pricing">
             <div class="header">
-              <div class="pricing-type">Professional</div>
+              <div class="pricing-type">Mobile APP</div>
               <div class="price">
-                <span class="dollar">$</span>
-                <h1>99<span class="suffix">.99</span></h1>
+                <span class="dollar">Rp</span>
+                <h1>299<span class="suffix">.000</span></h1>
               </div>
-              <h5>Per Month</h5>
+              <h5>Per MOBILE APP</h5>
             </div>
             <div class="body">
               <p>25 Analytics <span class="suffix">Campaign</span></p>
@@ -266,7 +213,7 @@
               <p>24/7 <span class="suffix">Support</span></p>
             </div>
             <div class="footer">
-              <a href="#" class="btn btn-pricing btn-block">Subscribe</a>
+              <a href="#" class="btn btn-pricing btn-block">Order Now</a>
             </div>
           </div>
         </div>
@@ -274,94 +221,4 @@
       </div>
     </div> <!-- .container -->
   </div> <!-- .page-section -->
-
-  <!-- Banner info -->
-  <div class="page-section banner-info">
-    <div class="wrap bg-image" style="background-image: url(../asset/img/bg_pattern.svg);">
-      <div class="container">
-        <div class="row align-items-center">
-          <div class="col-lg-6 py-3 pr-lg-5 wow fadeInUp">
-            <h2 class="title-section">SEO to Improve Brand <br> Visibility</h2>
-            <div class="divider"></div>
-            <p>We're an experienced and talented team of passionate consultants who breathe with search engine marketing.</p>
-
-            <ul class="theme-list theme-list-light text-white">
-              <li>
-                <div class="h5">SEO Content Strategy</div>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
-              </li>
-              <li>
-                <div class="h5">B2B SEO</div>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor</p>
-              </li>
-            </ul>
-          </div>
-          <div class="col-lg-6 py-3 wow fadeInRight">
-            <div class="img-fluid text-center">
-              <img src="{{asset('asset/img/banner_image_2.svg')}}" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> <!-- .wrap -->
-  </div> <!-- .page-section -->
-
-  <!-- Blog -->
-  <div class="page-section">
-    <div class="container">
-      <div class="text-center wow fadeInUp">
-        <div class="subhead">Our Blog</div>
-        <h2 class="title-section">Read Latest News</h2>
-        <div class="divider mx-auto"></div>
-      </div>
-
-      <div class="row mt-5">
-        <div class="col-lg-4 py-3 wow fadeInUp">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="{{asset('asset/img/blog/blog-1.jpg')}}" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3 wow fadeInUp">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="{{asset('asset/img/blog/blog-2.jpg')}}" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-lg-4 py-3 wow fadeInUp">
-          <div class="card-blog">
-            <div class="header">
-              <div class="post-thumb">
-                <img src="{{asset('asset/img/blog/blog-3.jpg')}}" alt="">
-              </div>
-            </div>
-            <div class="body">
-              <h5 class="post-title"><a href="#">Source of Content Inspiration</a></h5>
-              <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-12 mt-4 text-center wow fadeInUp">
-          <a href="blog.html" class="btn btn-primary">View More</a>
-        </div>
-      </div>
-    </div>
-  </div>
 @endsection
