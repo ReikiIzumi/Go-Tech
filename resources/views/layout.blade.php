@@ -14,6 +14,7 @@
   <link href="{{ asset('asset/css/bootstrap.css')}}" rel="stylesheet">
   <link href="{{ asset('asset/vendor/animate/animate.css')}}" rel="stylesheet">
   <link href="{{ asset('asset/css/theme.css')}}" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
 </head>
 <body>
@@ -32,23 +33,18 @@
 
         <div class="navbar-collapse collapsed" id="navbarContent">
           <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
+            <li @yield('home')>
               <a class="nav-link" href="{{url('/')}}">Home</a>
             </li>
-            <li class="nav-item">
+            <li @yield('about')>
               <a class="nav-link" href="{{url('/about')}}">About</a>
             </li>
-            <li class="nav-item active">
+            <li @yield('servis')>
               <a class="nav-link" href="{{url('/service')}}">Services</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="blog.html">Blog</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="{{url('/contact')}}">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="btn btn-primary ml-lg-2" href="#">Free Analytics</a>
+            {{-- nav-item active --}}
+            <li class="nav-item" >
+              <a class="btn btn-primary ml-lg-2" href="#price">Order Now</a>
             </li>
           </ul>
         </div>
@@ -204,7 +200,7 @@
       <div class="row mb-5">
         <div class="col-lg-3 py-3">
           <h3>GoTech.</h3>
-          <p>Technology for your need.</p>
+          <p>Let's Make Your Dream Become True</p>
           <!--<div class="social-media-button">
             <a href="#"><span class="mai-logo-facebook-f"></span></a>
             <a href="#"><span class="mai-logo-twitter"></span></a>
@@ -216,15 +212,17 @@
         <div class="col-lg-3 py-3">
           <h5>Company</h5>
           <ul class="footer-menu">
-            <li><a href="#">About Us</a></li>
+            <li><a href="{{url('/service')}}">About Us</a></li>
             <!--<li><a href="#">Career</a></li>
             <li><a href="#">Advertise</a></li>-->
-            <li><a href="#">Terms of Service</a></li>
-            <li><a href="#">Help & Support</a></li>
+            {{-- <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Help & Support</a></li> --}}
           </ul>
         </div>
         <div class="col-lg-3 py-3">
           <h5>Contact Us</h5>
+          <a href="mailto:ivansetiawanvill@gmail.com" class="footer-link">Contact Us</a>
+          <p>203 Fake St. Mountain View, San Francisco, California, USA</p>
           <!--<p>203 Fake St. Mountain View, San Francisco, California, USA</p>
           <a href="#" class="footer-link">+00 1122 3344 5566</a>
           <a href="#" class="footer-link">seogram@temporary.com</a>-->
@@ -248,7 +246,7 @@
 <script src="{{asset('asset/vendor/wow/wow.min.js')}}"></script>
 <script src="{{asset('asset/js/theme.js')}}"></script>
 <script src="{{asset('asset/js/bootstrap.bundle.min.js')}}"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 {{-- <script src="../assets/js/jquery-3.5.1.min.js"></script>
 <script src="../assets/js/bootstrap.bundle.min.js"></script>
 <script src="../assets/js/google-maps.js"></script>

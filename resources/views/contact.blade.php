@@ -1,4 +1,5 @@
 @extends('layout')
+
 @section('header')
     <div class="container">
       <div class="page-banner">
