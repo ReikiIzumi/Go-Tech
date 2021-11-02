@@ -199,7 +199,7 @@
     <div class="container">
       <div class="row mb-5">
         <div class="col-lg-3 py-3">
-          <h3>GoTech.</h3>
+          <h5>GoTech.</h5>
           <p>Let's Make Your Dream Become True</p>
           <!--<div class="social-media-button">
             <a href="#"><span class="mai-logo-facebook-f"></span></a>
@@ -222,10 +222,15 @@
         <div class="col-lg-3 py-3">
           <h5>Contact Us</h5>
           <a href="mailto:ivansetiawanvill@gmail.com" class="footer-link">Contact Us</a>
-          <p>203 Fake St. Mountain View, San Francisco, California, USA</p>
+          <p>Jl. DR. Soeparno No.29, Purwokerto Wetan, Kec. Purwokerto Timur, Kabupaten Banyumas, Jawa Tengah 53123</p>
+
           <!--<p>203 Fake St. Mountain View, San Francisco, California, USA</p>
           <a href="#" class="footer-link">+00 1122 3344 5566</a>
           <a href="#" class="footer-link">seogram@temporary.com</a>-->
+        </div>
+        <div class="col-lg-3 py-3">
+            <h5>Location</h5>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2302.0753135627865!2d109.25336317442647!3d-7.421909903594224!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e655e96a7e3cc79%3A0x6d79bcd9709b4b6!2sSMK%20Negeri%201%20Purwokerto!5e0!3m2!1sen!2sid!4v1635840742617!5m2!1sen!2sid" width="300" height="300" style="border-radius: 4px;" allowfullscreen="" loading="lazy"></iframe>
         </div>
         <!--<div class="col-lg-3 py-3">
           <h5>Newsletter</h5>
@@ -237,7 +242,7 @@
         </div>
       </div>-->
 
-      <p class="text-center" id="copyright">Copyright &copy; 2020. This template design and develop by <a href="https://macodeid.com/" target="_blank">MACode ID</a></p>
+      <p class="text-center" id="copyright">Copyright &copy; 2021</p>
     </div>
   </footer>
 

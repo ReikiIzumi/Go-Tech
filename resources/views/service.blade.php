@@ -139,7 +139,7 @@ class='nav-item active'
               <p>24/7 <span class="suffix">Support</span></p>
             </div>
             <div class="footer">
-              <a href="mailto:ivansetiawanvill@gmail.com?subject=I Will Order the Mobile App!" class="btn btn-pricing btn-block">Contact Us</a>
+              <a href="mailto:ivansetiawanvill@gmail.com?subject=I Will Order the Mobile App!" class="btn btn-pricing btn-block">Order Now</a>
             </div>
           </div>
         </div>
