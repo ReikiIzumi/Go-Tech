@@ -8,7 +8,7 @@
 
   <meta name="copyright" content="MACode ID, https://macodeid.com/">
 
-  <title>SeoGram - SEO Agency Template</title>
+  <title>GoTech Software House</title>
 
   <link href="{{ asset('asset/css/maicons.css')}}" rel="stylesheet">
   <link href="{{ asset('asset/css/bootstrap.css')}}" rel="stylesheet">

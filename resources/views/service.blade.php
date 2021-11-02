@@ -12,8 +12,8 @@ class='nav-item active'
     <div class="container">
       <div class="page-banner">
         <div class="row justify-content-center align-items-center h-100">
-          <div class="col-md-6">
-            <div class="col-md-6 py-5 wow zoomIn">
+          <div class="#">
+            <div class="wow zoomIn">
                 <div class="img-fluid text-center">
                     <img src="{{asset('asset/img/services/background.svg')}}" alt="">
                 </div>
